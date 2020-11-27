@@ -1,0 +1,73 @@
+[{
+		"id": 1,
+		"name": "Vegan Vanilla Cake",
+		"description": "The Best Vegan Vanilla Cake - Fluffy and moist, this is a must have cake for all kinds of occasions! The only vanilla cake recipe you'll ever need, and it's vegan.",
+		"source": "https://www.noracooks.com/vegan-vanilla-cake/",
+		"type": "Dessert",
+		"time": 55,
+		"serves": 12,
+		"foodImage": "https://cdn.pixabay.com/photo/2015/04/17/19/20/cake-727854_960_720.jpg",
+		"ingredients": "1 1/4 cups unsweetened non-dairy milk\n2 teaspoons apple cider vinegar\n 1/2 cup aquafaba\n1/2 cup vegan butter softened to room temperature\n1/2 cup canola oil, or melted coconut oil\n1 1/2 cups sugar\n1 tablespoon vanilla extract\n3 cups all purpose flour\n1 tablespoon baking powder\n1/2 teaspoon salt\n1 Recipe Vanilla Vegan Frosting",
+		"directions": "Preheat the oven to 350 degrees F and prepare 2 round 8-inch cake pans by lining the bottom with parchment paper and spraying well with oil.\nMake the Vegan Buttermilk: Combine the non-dairy milk and apple cider vinegar. Stir a little, then set aside.\nMake the Aquafaba: Pour the liquid from a can of chickpeas into a small-medium bowl. Whisk well for a minute, until foamy and light. This acts similar to eggs. You can't taste it at all in the cake, don't worry! You will use 1/2 cup of this, and the liquid from 1 can is just perfect.\nUsing an electric hand mixer or stand mixer with a paddle attachment, cream together the softened vegan butter, canola oil and sugar until creamy and well combined.\nMeasure out 1/2 cup of the aquafaba, and add it to the bowl, along with the vanilla extract. Beat until well combined.\nIn a separate bowl,  whisk together the flour, baking powder and salt.\nUsing the mixer on low speed, alternate adding the flour mixture and vegan buttermilk, mixing until just combined after each time. The batter should be fairly smooth (a few lumps are okay), but avoid over-mixing.\nPour the cake batter evenly into the prepared pans, and bake for 30-35 minutes, until the edges are golden brown, the surface looks and feels set, and a toothpick comes out mostly clean, with no wet batter.\nAllow the cakes to cool in the pans for 15 minutes, then carefully invert them onto a cooling rack. Allow them to cool completely before frosting. You can place them in the refrigerator to speed the cooling process along if you need to.\nFrost with my Vanilla or Chocolate Frosting and add some sprinkles for fun, if desired. Enjoy!"
+	},
+	{
+		"id": 2,
+		"name": "Extra Easy Pancakes",
+		"description": "Our quick and easy vegan pancakes recipe makes pancakes that are light, extra fluffy, and so delicious. This recipe is dairy-free, egg-free, and can be made gluten-free when a gluten-free flour blend is used.",
+		"source": "https://www.inspiredtaste.net/45941/vegan-pancakes/",
+		"type": "Breakfast",
+		"time": 20,
+		"serves": 6,
+		"foodImage": "https://cdn.pixabay.com/photo/2015/09/16/20/10/pancakes-943246_960_720.jpg",
+		"ingredients": "1 cup all-purpose flour, whole wheat flour or gluten-free flour blend\n1 1/2 tablespoons sugar, see notes for substituting maple syrup\n2 teaspoons aluminum-free baking powder\n1/4 teaspoon fine sea salt\n1/4 teaspoon ground cinnamon, optional\n1 cup dairy-free milk of choice\n3 tablespoons olive oil, melted coconut oil or melted vegan butter\n1 teaspoon pure vanilla extract\nNonstick cooking spray, melted vegan butter or oil for the skillet",
+		"directions": "Whisk flour, sugar, baking powder, and the salt in a medium bowl.\n Whisk milk, olive oil, and the vanilla extract until combined.\nMake a well in the center of the flour mixture, pour milk mixture into the well and use a fork to stir until you no longer see clumps of flour. It is okay if the batter has small lumps – it is important not to over-mix the batter.\nHeat a large skillet (or use griddle) over medium heat. The pan is ready if when you splatter a little water onto the pan surface, the water dances around the pan and eventually evaporates.\nLightly brush or spray skillet with oil. Use a 1/4-cup measuring cup to spoon batter onto skillet. Gently spread the batter into a 4-inch circle.\nWhen edges look dry, and bubbles start to appear and pop on the top surfaces of the pancake, turn over. This takes about 2 minutes. Once flipped, cook another 1 to 2 minutes or until lightly browned and cooked in the middle. Serve immediately with warm syrup and berries."
+	},
+	{
+		"id": 3,
+		"name": "Classic Waffles",
+		"description": "Classic waffles, beautifully golden in color and crispy on the outside, soft on the inside. Delicious with vegan whipped cream, fresh fruit and syrup.",
+		"source": "https://lovingitvegan.com/classic-vegan-waffles/",
+		"type": "Breakfast",
+		"time": 20,
+		"serves": 4,
+		"foodImage": "https://cdn.pixabay.com/photo/2017/03/14/18/32/waffle-2143993_960_720.jpg",
+		"ingredients": "1 and 1/4 cup (156g) All Purpose Flour\n2 tsp Baking Powder\n1/4 tsp Salt\n3 Tbsp Sugar\n1 and 1/4 cup (300ml) Soy Milk (or other non-dairy milk)\n2 Tbsp Coconut Oil\n2 tsp Vanilla Extract",
+		"directions": "Put your waffle machine on to preheat.\n Sift the flour into a bowl and add the baking powder, salt and sugar. Then add the soy milk or other non-dairy milk, coconut oil and vanilla and whisk with a hand whisk to remove any lumps. The batter will be quite thin.\nWhen your waffle maker is heated, pour out the batter (use as much as recommended according to the waffle maker manufacturer instructions) and close the machine.\nAllow to cook for 5-7 minutes until golden and crispy.\nServe with whipped coconut cream or vegan ice cream, fresh fruit and maple syrup."
+	},
+	{
+		"id": 4,
+		"name": "Delicious Chocolate Cupcakes",
+		"description": "These classic vegan chocolate cupcakes are moist, fluffy, and mega-chocolatey.",
+		"source": "https://lovingitvegan.com/vegan-chocolate-cupcakes/",
+		"type": "Dessert",
+		"time": 40,
+		"serves": 12,
+		"foodImage": "https://cdn.pixabay.com/photo/2015/12/08/00/42/cupcakes-1081963_960_720.jpg",
+		"ingredients": "1 and 1/2 cups (190g) All Purpose Flour\n 1/2 cup (42g) Cocoa Powder (Unsweetened)\n 1/2 cup (100g) White Sugar\n1/2 cup (100g) Brown Sugar\n1 tsp Baking Soda\n1/2 tsp Salt\n1 cup (240ml) Soy Milk\n2 tsp Vanilla Extract\n1/3 cup (80ml) Canola Oil\n3 Tbsp Applesauce\n1 Tbsp White Vinegar",
+		"directions": "Preheat the oven to 350°F (180°C) and line a cupcake tray with cupcake liners. Set aside.\nSift the flour and cocoa into a mixing bowl and add the white and brown sugar, baking soda and salt and mix together.\nAdd the soy milk, vanilla, oil, applesauce and vinegar and mix in. Use a hand whisk to whisk out any big lumps.\nDivide the batter evenly between the cupcake liners.\nPlace into the oven and bake for 25 minutes or until a toothpick inserted into the center of one of the cupcakes comes out clean.\nLet cool for a few minutes and then remove the cupcakes from the cupcake tray and transfer to a wire cooling rack to cool completely.\nWhen your cupcakes are cooled, pipe on the frosting and sprinkle with grated vegan chocolate shavings."
+	},
+	{
+		"id": 5,
+		"name": "Homemade Fruit Popsicles",
+		"description": "These homemade fruit popsicles are the ultimate summer treat. The layers of mango, orange, and strawberry taste as amazing as they look, and they couldn’t be easier to make. Who’s ready for a frozen treat?",
+		"source": "https://www.deliciouseveryday.com/fruit-popsicles/",
+		"type": "Dessert",
+		"time": 300,
+		"serves": 8,
+		"foodImage": "https://cdn.pixabay.com/photo/2016/06/27/18/16/popsicle-1482976_960_720.jpg",
+		"ingredients": "1 cup mango chopped, fresh or frozen\n1/2 cup orange juice divided\n 2 tbsp honey divided, or agave syrup\n1 cup strawberries quartered, fresh or frozen",
+		"directions": "Blend the mango, 1/4 cup orange juice, and 1 tbsp of honey (or agave syrup) until smooth.\nPour the mango mixture into the bottom half of your popsicle molds.\nRinse the blender. Blend strawberries and 1 tbsp honey (or agave syrup). Pour into the popsicle molds, leaving just a little space at the top for the popsicles to expand.\nUse a popsicle stick to gently push the red and orange layers together, creating the ombre effect.\nInsert popsicle sticks and freeze for four hours. Remove from the molds, and enjoy."
+	},
+	{
+		"id": 6,
+		"name": "The Perfect Chocolate Chip Cookie",
+		"description": "Tried and true, these are the most perfect chocolate chip cookies ever! Made in 1 bowl and oh-so-soft, chewy and full of chocolate chips!",
+		"source": "https://www.noracooks.com/vegan-chocolate-chip-cookies/",
+		"type": "Dessert",
+		"time": 20,
+		"serves": 24,
+		"foodImage": "https://cdn.pixabay.com/photo/2017/01/05/22/43/food-1956546_960_720.jpg",
+		"ingredients": "1 tablespoon ground flaxseed\n 2.5 tablespoons water\n, 1/2 cup (8 tablespoons) vegan butter, slightly softened to room temperature\n1 1/4 cups brown sugar\n2 teaspoons pure vanilla extract\n1 1/2 cups all purpose flour\n2 teaspoons cornstarch\n1 teaspoon baking soda\n1/4 teaspoon salt\n1 1/2 cups non-dairy chocolate chips",
+		"directions": "Preheat the oven to 350 degrees F and line two cookie sheets with parchment paper or lightly spray with oil.\nMix the ground flaxseed and water in a small bowl and set aside to make your flax egg.\nIn a large bowl using a handheld mixer or a stand mixer with the paddle attachment, beat the softened vegan butter and brown sugar for 1-2 minutes until creamy.\nAdd the vanilla and the flax egg and mix to combine.\nNext, stop the mixer and add the flour. Sprinkle the cornstarch, baking soda and salt on top of the flour. Turn the mixer on low speed, and mix until just combined.\nAdd in the chocolate chips to incorporate, either by hand or using the mixer.\nRoll the dough into balls, about 1-2 tablespoons each. Place on the prepared pans and bake for 10 minutes (12 minutes for larger cookies), until they are barely golden around the edges. Do not over bake! They will be puffy and lightly colored.\nLet cool on the cookie sheet for 5 minutes, then transfer to a cooling rack. The cookies will firm up as they cool, and become the most perfect chewy cookies ever! Enjoy."
+	}
+]

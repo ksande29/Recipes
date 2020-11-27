@@ -1,0 +1,39 @@
+<header>
+  <div class="section removePaddingTop removePaddingBottom darkBlueBackground">
+    <div class="container">
+      <nav class="navbar darkBlueBackground" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+          <a class="navbar-item has-text-white" href="">
+            YUMMY
+          </a>
+          <a role="button" class="navbar-burger has-text-white darkBlueBackground" data-target="recipeNavbar" aria-label="menu" aria-expanded="false">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+        <div id="recipeNavbar" class="navbar-menu darkBlueBackground">
+          <div class="navbar-start darkBlueBackground">
+            <% if (signedIn) {%>
+              <a class="navbar-item has-text-white" id="_sign_user_out">Sign Out</a>
+            <% } else { %>
+              <a class="navbar-item has-text-white" href="/signin">Sign In</a>
+              <a class="navbar-item has-text-white" href="/signup">Sign Up</a>
+            <% } %>
+          </div>
+          <div class="navbar-end darkBlueBackground">
+            <a class="navbar-item has-text-white" href="/recipes">
+              Recipes
+            </a>
+            <a class="navbar-item has-text-white" href="/about">
+              About Us
+            </a>
+            <a class="navbar-item has-text-white" href="/contact">
+              Contact Us
+            </a>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>

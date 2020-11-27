@@ -1,0 +1,78 @@
+//general styles
+//spacing helpers
+.removePaddingTop {padding-top: 0;}
+.removePaddingBottom {padding-bottom: 0;}
+//colors
+.darkBlueBackground {background-color: #1A3440;}
+.darkBlueText {color: #1A3440;}
+.darkBlueBorder {border: 1px solid #1A3440;}
+.lightBlueBackground {background-color: #456573;}
+.greenBackground {background-color: #95ADA0;}
+.greenText {color: #95ADA0;}
+.greenBorder {border: 1px solid #95ADA0;}
+.lightGreenBackground {background-color: rgba(149, 173, 160, 0.2)};
+//text
+.capitalize { text-transform: capitalize; }
+
+//specific styles
+* {
+  font-family: 'Mulish', sans-serif;
+}
+.topImage {
+  background-image: url("https://cdn.pixabay.com/photo/2014/11/14/20/20/blueberries-531209_960_720.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+#recipesPage {background-image: url("https://cdn.pixabay.com/photo/2014/11/14/20/20/blueberries-531209_960_720.jpg");}
+#aboutPage {background-image: url("https://cdn.pixabay.com/photo/2020/08/11/13/58/apple-pie-5479993_960_720.jpg");}
+#contactPage {background-image: url("https://cdn.pixabay.com/photo/2017/05/02/18/20/blueberries-2278921_960_720.jpg");}
+#signInPage {background-image: url("https://images.pexels.com/photos/47812/bananas-dessert-ice-cream-fruit-47812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");}
+#signUpPage {background-image: url("https://images.pexels.com/photos/1674552/pexels-photo-1674552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");}
+#errorPage {background-image: url("https://images.pexels.com/photos/310575/pexels-photo-310575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");}
+
+.section {
+  .container {
+    max-width: 1024px;
+    
+    .navbar {
+      .navbar-menu {
+        .navbar-start {
+          .navbar-item:hover {
+            background-color: #1A3440 !important;
+          }
+        }
+        .navbar-end {
+          .navbar-item:hover {
+            background-color: #1A3440 !important;
+          }
+        }
+      }
+    }
+    .columns {
+      .column {
+        display: flex;
+      }
+
+      .buttonGroup >* {
+        margin-right: 10px;
+      }
+
+      .card {
+        display: flex;
+        flex-direction: column;
+        min-width: 100%;
+        
+        .card-content {
+          flex-grow: 1;
+        }
+      }
+    }
+  }
+}
+
+.test {
+  border: 1px solid red;
+}
+
+
